@@ -1,4 +1,11 @@
-# Lbaw24021 - FakeBook
+# Lbaw24021 - FakeBook <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" title="HTML" alt="HTML Logo" width="55" height="55" align="right" />&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" title="Boostrap" alt="Boostrap Logo" width="55" height="55" align="right" />&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript Logo" width="55" height="55" align="right" />&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"  title="PostGresSQL" alt="PostGresSQL Logo" width="55" height="55" align="right" />&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" title="Laravel" alt="Laravel Logo" width="55" height="55" align="right" />&nbsp; 
+
+#### Project done in collaboration with:  
+[Tomás Marques](https://github.com/Torpedoooo)  
+[Afonso Domingues](https://github.com/AfonsoDomingues17)        
+[João Lamas](https://github.com/jomilamas)
+
+## Grade: 92/100
 
 ## Description
 
@@ -16,8 +23,8 @@ Main Page
 
 - Clone the repo to your machine
 
-        git clone https://gitlab.up.pt/lbaw/lbaw2425/lbaw24021.git
-        cd lbaw24021/
+        git clone https://github.com/davidm-g/FakeBook-Social-Network.git
+        cd FakeBook-Social-Network/
         composer update
 
 - Open Docker Desktop
@@ -111,3 +118,7 @@ If you have any doubts contact us through the emails below.
 ## Project status
 
 Completed
+
+---
+Made by David Gonçalves | davidmgoncalves.pt@gmail.com  
+<div id="badge"> <a href="https://www.linkedin.com/in/davidm-g"/> <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>&nbsp;
